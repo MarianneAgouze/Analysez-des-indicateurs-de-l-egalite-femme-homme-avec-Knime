@@ -6,7 +6,7 @@ Dans ce contexte, ma mission est de concevoir un système d'automatisation pour 
 Fichiers fournis pour l'analyse :
 * Les fichiers des données issues du Système d’Informations des Ressources Humaines (SIRH) du cabinet.
 
-Compétences évaluées:
+Compétences acquises:
 
 * Collecter des données en respectant le RGPD.
 * Préparer des données pour l'analyse en respectant les normes internes à l’entreprise.
